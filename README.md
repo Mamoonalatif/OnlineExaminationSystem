@@ -79,12 +79,6 @@ pandaproctor/
 └── Student.txt        # Student credentials
 ```
 
-## 📜 License
-MIT License - See [LICENSE](LICENSE) for details
-```
-
----
-
 ### Project Description  
 **PandaProctor** addresses the growing need for reliable online examination systems with these core capabilities:
 
@@ -116,4 +110,4 @@ The system uses a microservice architecture where:
 - The **TCP server** (server.py) handles data operations  
 - The **Flask face service** (face.py) provides proctoring capabilities  
 
-This design ensures academic integrity while providing educators with tools to create meaningful assessments and track learning outcomes.
+
