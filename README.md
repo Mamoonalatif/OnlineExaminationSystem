@@ -10,6 +10,15 @@ PandaProctor is an online examination platform with:
 - **Secure TCP-based client-server architecture**
 
 ## ✨ Key Features
+![image](https://github.com/user-attachments/assets/e8fcb1be-0a2e-4742-a6a8-01db7e950ebf)
+![image](https://github.com/user-attachments/assets/5049ca60-a845-4750-ae15-4eb1de3564f9)
+![image](https://github.com/user-attachments/assets/6b2dccc7-591d-4291-8c31-b5aabfaade23)
+![image](https://github.com/user-attachments/assets/985ae2f3-34fb-4854-bd30-b182a889dcb6)
+![image](https://github.com/user-attachments/assets/85722ed4-4c41-45d9-8df8-ae14f5f89c4e)
+![image](https://github.com/user-attachments/assets/f9aef190-812c-47c9-934f-5c7bb8bb75f2)
+![image](https://github.com/user-attachments/assets/0cfb9fa0-49ca-43a2-aa8f-9deecd1d9f83)
+![image](https://github.com/user-attachments/assets/dc725964-ac6a-4a76-b47b-04188733a536)
+![image](https://github.com/user-attachments/assets/9428ff3d-9580-4267-8b4c-d9b27a0b18cf)
 ### 👨‍🏫 Admin Portal
 - Create/edit/delete questions with metadata (difficulty, concept, course)
 - Track student performance through visual analytics
