@@ -69,6 +69,8 @@ PandaProctor is an online examination platform with:
 ## 📂 Project Structure
 ```
 pandaproctor/
+├── /static
+   ├── debug-frame.png
 ├── main.py            # Streamlit frontend
 ├── server.py          # TCP question/score server
 ├── face.py            # Face detection service
